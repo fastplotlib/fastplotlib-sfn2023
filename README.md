@@ -7,7 +7,7 @@ For more info on `fastplotlib` see the repo: https://github.com/fastplotlib/fast
 The demos cover the following topics:
 1. Simple introduction to `fastplotlib` - `Images`, `ImageWidget`, and `Lines`
    - plotting simple images, feature changes, image updates, fancy indexing of features
-2. neuroscience using `fastplotlib` 
+2. Neuroscience using `fastplotlib` 
    - building a complex plot to explore behavioral and calcium imaging data
    - integration of `fastplotlib` with other Python neuroscience tools (i.e. `mesmerize_core`, `CaImAn`, `pynapple`)
   
