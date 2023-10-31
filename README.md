@@ -1,8 +1,8 @@
 # fastplotlib-sfn2023
 
-Materials for the [`fastplotlib`](https://github.com/kushalkolar/fastplotlib/) talk at Society for Neuroscience (SFN) 2023. This repo includes installation instructions and the demo notebooks covered in our talk. 
+Materials for the [`fastplotlib`](https://github.com/fastplotlib/fastplotlib/) talk at Society for Neuroscience (SFN) 2023. This repo includes installation instructions and the demo notebooks covered in our talk. 
 
-For more info on `fastplotlib` see the repo: https://github.com/kushalkolar/fastplotlib/
+For more info on `fastplotlib` see the repo: https://github.com/fastplotlib/fastplotlib/
 
 The demos cover the following topics:
 1. Simple introduction to `fastplotlib` - `Images`, `ImageWidget`, and `Lines`
@@ -13,7 +13,7 @@ The demos cover the following topics:
   
 # Installation instructions
 
-See the `fastplotlib` repo for [installation](https://github.com/kushalkolar/fastplotlib#installation). 
+See the `fastplotlib` repo for [installation](https://github.com/fastplotlib/fastplotlib#installation). 
 
 ### Install using pip
 ```
