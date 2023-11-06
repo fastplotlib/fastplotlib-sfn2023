@@ -10,14 +10,6 @@ The demos cover the following topics:
 2. Neuroscience using `fastplotlib` 
    - building a complex plot to explore behavioral and calcium imaging data
    - integration of `fastplotlib` with other Python neuroscience tools (i.e. `mesmerize_core`, `CaImAn`, `pynapple`)
-  
-# Installation instructions
-
-See the `fastplotlib` repo for [installation](https://github.com/fastplotlib/fastplotlib#installation). 
-
-### Install using pip
-```
-```
 
 # General `fastplotlib` API
 ## 1. Graphics - objects that are drawn
