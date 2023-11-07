@@ -11,6 +11,26 @@ The demos cover the following topics:
    - building a complex plot to explore behavioral and calcium imaging data
    - integration of `fastplotlib` with other Python neuroscience tools (i.e. `mesmerize_core`, `CaImAn`, `pynapple`)
 
+# Installation instructions
+
+See the `fastplotlib` repo for [installation](https://github.com/kushalkolar/fastplotlib#installation). 
+
+In order to run the notebooks you will need to have `imageio`. This is not a dependency of `fastplotlib`, but is being used in these demos.
+
+Additionally, for the `intro_demo.ipynb`, you can find the 10GB zebrafish dataset being used here: 
+
+### Install using pip
+```
+# you will need to install imageio
+pip install imageio
+
+# optional, you'll need C compilers
+pip install simplejpeg
+
+# fastplotlib with notebook dependencies
+pip install "fastplotlib[notebook]"
+```
+
 # General `fastplotlib` API
 ## 1. Graphics - objects that are drawn
 - `Image`, `Line`, `Scatter`, `Heatmap`
